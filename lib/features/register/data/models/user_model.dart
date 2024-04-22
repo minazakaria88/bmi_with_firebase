@@ -1,9 +1,9 @@
 class UserModel
 {
-  String ? name;
-  String ? email;
-  String ? phone;
-  String ? uId;
+  late final String  name;
+  late final String  email;
+  late final String  phone;
+  late final String  uId;
 
   UserModel(
       this.uId,
