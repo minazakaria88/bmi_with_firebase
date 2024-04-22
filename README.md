@@ -1,16 +1,1 @@
-# bmi_with_firebase
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-04-22 at 11 04 53 PM](https://github.com/minazakaria88/bmi_with_firebase/assets/76627744/739caf33-c01a-49bf-aaaf-b8ddabfbdb26)
